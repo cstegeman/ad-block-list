@@ -1,1 +1,3 @@
 127.0.0.1 analytics.plex.tv.dynamic.ziggo.nl
+127.0.0.1 cb25.coolblue.nl
+127.0.0.1 scripts.witstroom.com
